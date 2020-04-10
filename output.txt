@@ -1,0 +1,73 @@
+Task 2:
+Dataset0 Classification Accuracy: 80.2 %
+Dataset0 Confusion Matrix:
+tensor([[ 95.,   2.,  17.,  75.,  11.],
+        [  4., 190.,   6.,   0.,   0.],
+        [ 17.,   0., 164.,   7.,  12.],
+        [ 22.,   0.,   1., 177.,   0.],
+        [  8.,   0.,  13.,   3., 176.]])
+Dataset20 Classification Accuracy: 77.3 %
+Dataset20 Confusion Matrix:
+tensor([[147.,   2.,   8.,  29.,  14.],
+        [  2., 197.,   1.,   0.,   0.],
+        [ 29.,   2., 158.,   0.,  11.],
+        [ 98.,   0.,   4.,  98.,   0.],
+        [  9.,   0.,  16.,   2., 173.]])
+Dataset50 Classification Accuracy: 81.9 %
+Dataset50 Confusion Matrix:
+tensor([[116.,   5.,  14.,  51.,  14.],
+        [  0., 196.,   3.,   0.,   1.],
+        [  5.,   2., 175.,   0.,  18.],
+        [ 37.,   1.,   2., 159.,   1.],
+        [  5.,   0.,  14.,   8., 173.]])
+Dataset80 Classification Accuracy: 75.4 %
+Dataset80 Confusion Matrix:
+tensor([[106.,   1.,  10.,  66.,  17.],
+        [  2., 193.,   4.,   0.,   1.],
+        [ 26.,   1., 146.,   9.,  18.],
+        [ 54.,   0.,   2., 144.,   0.],
+        [  7.,   0.,   6.,  22., 165.]])
+Task 3:
+Noise Classification Accuracy: 99.025 %
+Noise Confusion Matrix:
+tensor([[ 988.,   12.,    0.,    0.],
+        [   0., 1984.,   16.,    0.],
+        [   0.,    0.,  989.,   11.],
+        [   0.,    0.,    0.,    0.]])
+Dataset0 Classification Accuracy: 89.3 %
+Dataset0 Confusion Matrix:
+tensor([[171.,   0.,   0.,  29.,   0.],
+        [  3., 197.,   0.,   0.,   0.],
+        [ 15.,   5., 172.,   3.,   5.],
+        [ 37.,   0.,   1., 162.,   0.],
+        [  7.,   2.,   0.,   0., 191.]])
+Dataset20 Classification Accuracy: 81.8 %
+Dataset20 Confusion Matrix:
+tensor([[140.,   4.,   2.,  50.,   4.],
+        [  2., 196.,   2.,   0.,   0.],
+        [ 18.,  14., 151.,   8.,   9.],
+        [ 54.,   2.,   0., 140.,   4.],
+        [  7.,   1.,   1.,   0., 191.]])
+Dataset50 Classification Accuracy: 71.9 %
+Dataset50 Confusion Matrix:
+tensor([[108.,  14.,  13.,  57.,   8.],
+        [  8., 179.,   9.,   3.,   1.],
+        [ 15.,  11., 156.,  13.,   5.],
+        [ 67.,   1.,  10., 111.,  11.],
+        [ 20.,   4.,   3.,   8., 165.]])
+Dataset80 Classification Accuracy: 58.3 %
+Dataset80 Confusion Matrix:
+tensor([[ 74.,  15.,  26.,  63.,  22.],
+        [ 22., 152.,  18.,   1.,   7.],
+        [ 23.,   8., 132.,  17.,  20.],
+        [ 55.,   3.,  23.,  95.,  24.],
+        [ 24.,   7.,  22.,  17., 130.]])
+
+Task 4:
+Dataset50 Classification Accuracy: 70.4 %
+Dataset50 Confusion Matrix:
+tensor([[109.,   6.,  10.,  59.,  16.],
+        [ 13., 161.,  10.,   5.,  11.],
+        [ 19.,   6., 153.,  13.,   9.],
+        [ 67.,   2.,  13., 106.,  12.],
+        [  8.,   2.,   7.,   8., 175.]])
